@@ -17,7 +17,7 @@ Visualizes unemployment trends, inflation indices (CPI, PPI), and price change b
 #### 2. Pfizer vs. Moderna Stock & Volume  
 Compares quarterly trading volumes and stock prices from Q1 2020 to Q1 2022.
 
-![Pfizer vs. Moderna](IMAGE_URL_HERE)
+![Pfizer vs. Moderna](Pfizer and Moderna 2020 - 2022 Stock Volume and Price.png)
 
 #### 3. California COVID Impact  
 Shows regional differences in case counts, deaths, and CPI in California cities and across U.S. regions.
