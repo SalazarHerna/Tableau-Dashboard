@@ -22,7 +22,7 @@ Compares quarterly trading volumes and stock prices from Q1 2020 to Q1 2022.
 #### 3. California COVID Impact  
 Shows regional differences in case counts, deaths, and CPI in California cities and across U.S. regions.
 
-![California COVID Impact](IMAGE_URL_HERE)
+![California COVID Impact](https://github.com/SalazarHerna/Tableau-Dashboard/blob/345cc61135a08e04c83ab503c944430589769271/Impact%20of%20COVID%20in%20California.png)
 
 #### 4. Worldwide COVID Case Map  
 Displays total COVID-19 cases by country with an interactive map and bar chart.
