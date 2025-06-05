@@ -23,7 +23,7 @@ Visualizes weekly new COVID-19 cases and deaths in the top 5 countries (U.S., In
 ### 2. U.S. COVID Spread by State  
 Displays new COVID-19 positive cases across the United States, highlighting state-level impact with interactive bubble sizes and colors.
 
-![U.S. Case Map](https://github.com/YourUsername/YourRepo/blob/main/US%20Cases%20by%20State.png?raw=true](https://github.com/SalazarHerna/Tableau-Dashboard/blob/ef4c7920a153550bb5b9a6f05424cd32bdbb0cef/New%20Positive%20Case%20Count%20in%20the%20USA.png)
+![U.S. Case Map](https://github.com/SalazarHerna/Tableau-Dashboard/blob/ef4c7920a153550bb5b9a6f05424cd32bdbb0cef/New%20Positive%20Case%20Count%20in%20the%20USA.png)
 
 ---
 
