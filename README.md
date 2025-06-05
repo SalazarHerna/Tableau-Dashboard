@@ -7,14 +7,13 @@ This Tableau project analyzes the **health and economic consequences of the COVI
 ## Tools Used
 - **Tableau**: Data visualization and dashboard creation
 - **Excel/CSV**: Data preparation and cleanup
-- **GitHub**: Project versioning and sharing
-
+  
 ---
 
 ## Dashboard Story Flow
 
-### 1. Global COVID-19 Trends: Cases in Top 5 Countries
-Visualizes weekly new COVID-19 cases in the top 5 countries (U.S., India, Brazil, France, Germany), highlighting major infection waves and cumulative global counts.
+### 1. Global COVID-19 Trends: Weekly Cases in Top 5 Affected Countries
+This dashboard visualizes weekly new COVID-19 cases in the five most impacted countries—United States, India, Brazil, France, and Germany. It highlights the timing and scale of major infection waves, along with the cumulative case count.
 
 ![Global COVID Trends in Top 5 Affected Countries](https://github.com/SalazarHerna/Tableau-Dashboard/blob/7a6f9a862de7703834a2f81d50b5efd9ad7d3801/New%20Positive%20Case%20Count%20by%20Week%20in%20Top%205%20Affected%20Countries.png)
 
@@ -62,7 +61,7 @@ Interactive map and bar chart showing the total COVID-19 case counts across the 
 ---
 
 ## Key Insights
-- The U.S. was among the countries with the highest number of reported COVID-19 cases and deaths globally, with California standing out as a significant hotspot.
+- The U.S. was among the countries with the highest number of reported COVID-19 cases globally, with California standing out as a significant hotspot.
 - In the U.S., 2020 saw a record unemployment spike (23M), followed by strong but uneven recovery.
 - Inflation surged post-pandemic, especially in food, energy, and automotive sectors.
 - Pfizer and Moderna’s stock performance peaked during vaccine rollouts and then normalized.
