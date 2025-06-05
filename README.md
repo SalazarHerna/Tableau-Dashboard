@@ -1,2 +1,44 @@
 # Tableau-Dashboard
 This project explores the economic, healthcare, and consumer price impacts of COVID-19 using interactive dashboards built with Tableau. It combines multiple datasets to provide a multi-dimensional view of unemployment, inflation, stock market activity, COVID-19 case counts, and regional impacts across the U.S. and globally.
+
+Tools Used
+- **Tableau**: For all data visualization and dashboard creation
+- **Excel/CSV**: For data preprocessing before import
+
+---
+
+### 📊 Dashboard Highlights
+
+#### 1. Economic Impact Dashboard  
+Visualizes unemployment trends, inflation indices (CPI, PPI), and price change breakdown by category.
+
+![Economic Impact Dashboard](IMAGE_URL_HERE)
+
+#### 2. Pfizer vs. Moderna Stock & Volume  
+Compares quarterly trading volumes and stock prices from Q1 2020 to Q1 2022.
+
+![Pfizer vs. Moderna](IMAGE_URL_HERE)
+
+#### 3. California COVID Impact  
+Shows regional differences in case counts, deaths, and CPI in California cities and across U.S. regions.
+
+![California COVID Impact](IMAGE_URL_HERE)
+
+#### 4. Worldwide COVID Case Map  
+Displays total COVID-19 cases by country with an interactive map and bar chart.
+
+![Worldwide COVID Map](IMAGE_URL_HERE)
+
+---
+
+### Key Takeaways
+- Unemployment peaked at 23 million in 2020.
+- Major inflation seen in energy, food, and used car prices.
+- Vaccine-related stock surges for Pfizer and Moderna in 2021.
+- CPI was highest in California’s largest metro areas.
+- The U.S. led globally in total COVID-19 cases.
+
+---
+
+### 🔍 Purpose
+Developed to practice **data storytelling, Tableau dashboarding**, and **multi-source analysis**, while delivering insight into pandemic-era economic and public health trends.
