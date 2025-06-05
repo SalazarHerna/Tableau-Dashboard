@@ -27,7 +27,7 @@ Shows regional differences in case counts, deaths, and CPI in California cities 
 #### 4. Worldwide COVID Case Map  
 Displays total COVID-19 cases by country with an interactive map and bar chart.
 
-![Worldwide COVID Map](Covid Cases by Country.png)](https://github.com/SalazarHerna/Tableau-Dashboard/blob/657f5624c3e5dabb7284aa5f78cd994cfe862bc4/Covid%20Cases%20by%20Country.png)
+![Covid Cases by Country.png](https://github.com/SalazarHerna/Tableau-Dashboard/blob/657f5624c3e5dabb7284aa5f78cd994cfe862bc4/Covid%20Cases%20by%20Country.png)
 
 ---
 
