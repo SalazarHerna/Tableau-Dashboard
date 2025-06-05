@@ -13,10 +13,10 @@ This Tableau project analyzes the **health and economic consequences of the COVI
 
 ## Dashboard Story Flow
 
-### 1. Global COVID-19 Trends: Cases & Deaths  
-Visualizes weekly new COVID-19 cases and deaths in the top 5 countries (U.S., India, Brazil, France, Germany), highlighting major infection waves and cumulative global counts.
+### 1. Global COVID-19 Trends: Cases in Top 5 Countries
+Visualizes weekly new COVID-19 cases in the top 5 countries (U.S., India, Brazil, France, Germany), highlighting major infection waves and cumulative global counts.
 
-![Global COVID Trends](https://github.com/SalazarHerna/Tableau-Dashboard/blob/eeefc81ca55cef5c9e6f6ce4295bced5b5a85daf/COVID%20statistics%20in%20Top%205%20most%20Affected%20countries.png)
+![Global COVID Trends in Top 5 Affected Countries](https://github.com/SalazarHerna/Tableau-Dashboard/blob/7a6f9a862de7703834a2f81d50b5efd9ad7d3801/New%20Positive%20Case%20Count%20by%20Week%20in%20Top%205%20Affected%20Countries.png)
 
 ---
 
