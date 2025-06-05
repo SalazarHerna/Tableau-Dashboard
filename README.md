@@ -12,7 +12,7 @@ Tools Used
 #### 1. Economic Impact Dashboard  
 Visualizes unemployment trends, inflation indices (CPI, PPI), and price change breakdown by category.
 
-![Economic Impact Dashboard](IMAGE_URL_HERE)
+![Economic Impact Dashboard](https://github.com/SalazarHerna/Tableau-Dashboard/blob/d36c5860a3f0d2514b2b26c595ad6fc13162caae/Covid%20Economic%20Impact.png)
 
 #### 2. Pfizer vs. Moderna Stock & Volume  
 Compares quarterly trading volumes and stock prices from Q1 2020 to Q1 2022.
